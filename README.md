@@ -7,3 +7,4 @@ Beginners Basic Math Problems :
 5. Find power of a number
 6. GCD Program
 7. Print all divisors of a number
+8. Prime Numbers
