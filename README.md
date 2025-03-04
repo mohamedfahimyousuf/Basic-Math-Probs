@@ -8,3 +8,4 @@ Beginners Basic Math Problems :
 6. GCD Program
 7. Print all divisors of a number
 8. Prime Numbers
+9. Armstrong Number
