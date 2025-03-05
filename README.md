@@ -10,3 +10,4 @@ Beginners Basic Math Problems :
 8. Prime Numbers
 9. Armstrong Number
 10. Palindrome Number or not
+11. To find Perfect Number
