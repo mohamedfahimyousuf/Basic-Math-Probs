@@ -9,3 +9,4 @@ Beginners Basic Math Problems :
 7. Print all divisors of a number
 8. Prime Numbers
 9. Armstrong Number
+10. Palindrome Number or not
