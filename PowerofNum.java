@@ -11,7 +11,7 @@ public class PowerofNum
 		for(int i=0;i<exponent;i++){
 		    pow = pow*base;
 		}
-		System.out.println("The Power of the Number is: "+pow);
+		System.out.println("The Power of the Number is : "+pow);
         sc.close();
 	}
 }
