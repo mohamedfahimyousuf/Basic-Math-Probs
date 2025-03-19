@@ -11,7 +11,7 @@ class Palindrome{
             rev = (rev*10)+lastdigit;
             temp/=10;
         }
-        System.out.println("Reverse of the Number: "+rev);
+        System.out.println("Reverse of the Number : "+rev);
         if(rev == num){
             System.out.println("It is an Palindrome Number");
         }
