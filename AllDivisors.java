@@ -5,7 +5,7 @@ public class AllDivisors
 	    Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a Number : ");
 		int num = sc.nextInt();
-		System.out.println("All Divisors of the given Number is: ");
+		System.out.println("All Divisors of the given Number is : ");
 		for(int i =1;i<=num;i++){
 		    if(num%i==0){
 		        System.out.print(i+" ");
