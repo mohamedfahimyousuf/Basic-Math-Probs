@@ -1,4 +1,4 @@
-Beginners Basic Math Problems :
+Beginners Basic Math Problems:
 
 1. Find even  or odd
 2. Find last digit in a number
