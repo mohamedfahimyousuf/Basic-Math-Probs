@@ -9,8 +9,8 @@ public class SquareRoot
 		for(int i=1;i*i<=num;i++){
 		    sqrt = i;
 		}
-		System.out.println("Sqrt: "+sqrt); //for only whole numbers
-		System.out.println("Sqrt: "+Math.sqrt(num));
+		System.out.println("Sqrt : "+sqrt); //for only whole numbers
+		System.out.println("Sqrt : "+Math.sqrt(num));
         sc.close();
 	}
 }
