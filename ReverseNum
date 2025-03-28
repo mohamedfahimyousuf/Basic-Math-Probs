@@ -11,7 +11,7 @@ public class ReverseNum
 		    rev = rev*10+rem;
 		    n/=10;
 		}
-		System.out.println("The Reverse of the Number is: "+ rev);
+		System.out.println("The Reverse of the Number is : "+ rev);
         sc.close();
 	}
 }
