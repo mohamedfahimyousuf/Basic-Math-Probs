@@ -20,10 +20,10 @@ public class ArmstrongNum
 		}
 		
 		if(sum == num){
-		    System.out.println("It is an Armstrong Number");
+		    System.out.println("It is an Armstrong Number ");
 		}
 		else{
-		    System.out.println("It is not an Armstrong Number");
+		    System.out.println("It is not an Armstrong Number ");
 		}
 		sc.close();
 	}
